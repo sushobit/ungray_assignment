@@ -1,0 +1,9 @@
+.dashboard-navbar {
+    font-weight: 900;
+    background-color: white;
+    height: fit-content;
+    width: fit-content;
+}
+.navbar-cont {
+    background-color: rgba(233, 230, 230, 0.888);
+}

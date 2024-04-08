@@ -1,0 +1,106 @@
+.main{
+    width: 45%;
+    background-color: rgb(234, 238, 237);
+    border: 2px;
+    box-shadow: 5px 5px 10px 5px rgb(42, 40, 40);
+    padding: 20%;
+}
+
+#reg{
+    padding-bottom: 5rem;
+}
+
+#log{
+    padding-bottom: 8.2rem;
+}
+
+.bg-image{
+    margin:0 auto;
+    background-image: url(c1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover 99%;
+    width: 1000px;
+    height: 730px;
+    
+}
+
+.certificate-container {
+margin-top: 20px;
+height: 600px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.certificate-background {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+z-index: -1;
+}
+
+.certificate-content {
+position: relative;
+text-align: center;
+padding: 50px;
+}
+
+.certificate-title {
+font-size: 36px;
+font-weight: bold;
+margin-bottom: 20px;
+font-family:serif;
+}
+
+.certificate-recipient {
+font-size: 32px;
+font-weight: bold;
+margin-top: 50px;
+margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#info{
+   
+ margin: 0 0 200px 300px; 
+    margin-top: 1rem;
+    background-color: darkgrey;
+    box-shadow: 10px 10px 10px rgb(110, 108, 108);
+    width:50rem
+    
+
+}
+
+#btn{
+    margin: 1rem;
+}
+
+#template{
+    margin: 2rem;
+}
+
+.social-btn button.twitter-btn, .social-btn button.facebook-btn {
+    width: 100%;
+    font-size: 18px;
+    margin: 0px 0px 10px;
+}
+.social-btn button.twitter-btn{
+  background-color: #26abfd;
+}
+.social-btn button.facebook-btn{
+  background-color: #3f68be;
+}
+.social-btn {
+    border-top: 1px solid #ddd;
+    padding-top: 30px;
+    margin-top: 30px;
+}
+.social-btn button i {
+    margin-right: 5px;
+    font-size: 20px;
+}
